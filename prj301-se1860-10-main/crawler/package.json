@@ -1,0 +1,11 @@
+{
+  "name": "fake-person-generator",
+  "version": "1.0.0",
+  "main": "random_profile.js",
+  "scripts": {
+    "start": "node random_profile.js"
+  },
+  "devDependencies": {
+    "@faker-js/faker": "^8.4.1"
+  }
+}

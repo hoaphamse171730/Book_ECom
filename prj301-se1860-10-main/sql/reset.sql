@@ -1,0 +1,12 @@
+delete from [image]
+delete from [authors_of_product]
+delete from [author]
+delete from [product]
+delete from [category]
+
+delete from [order_detail]
+delete from [order]
+delete from [notification]
+delete from [feedback]
+delete from [favorite]
+delete from [user]
